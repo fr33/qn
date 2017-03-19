@@ -23,7 +23,7 @@ Qn.-> as in Quantum, based on the infinite-decimal metric unit (qu),
       memory  and  passes to QUBOID ready data structure.
  
       
-
+THE COMPILER
 1.quantu.mliC (format) 
    MACHINE LANGUAGE INTERPRETER CONVERTER -> MOV, FRMT, PUT DATA
-   THE COMPILER
+   
