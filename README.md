@@ -20,7 +20,7 @@ Qn.-> as in Quantum, based on the infinite-decimal metric unit (qu),
       to the Quboid data structure. Therefore a compiler will be used to 
       format binary data to quantum data, this compiler is called Quantu, 
       it takes machine code generated in processor,  and in the computer 
-      memory  and  passes to QUBOID ready data structure.
+      memory  and  passes to CUBOID ready data structure.
  
       
 THE COMPILER                                                                                                              
